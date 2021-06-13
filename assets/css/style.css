@@ -1,0 +1,10 @@
+.tile {
+    height: 50px;
+    width: 50px;
+    border: 1px solid grey;
+    background-color : red;
+    position: absolute;
+}
+
+
+
